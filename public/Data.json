@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Wedding Dress Shopping",
+    "image": "https://i.ibb.co/5KJKB8L/dfsfd.jpg",
+    "short_description": "Wedding Dress Shopping: Tips, Trends, and Finding 'The One' – A Bride's Guide to the Perfect Gown",
+    "board_description": "Discovering Your Dream Dress: A Guide to Wedding Dress Shopping Explore the world of bridal fashion, top trends, and expert tips to ensure you find the perfect gown for your special day. Dive into the magical journey of wedding dress shopping and make your bridal vision a reality.",
+    "price": 1532
+  },
+  {
+    "id": 2,
+    "title": "Wedding Makeup",
+    "image": "https://i.ibb.co/Db77C2R/89425ca67cc0e546d1978e0912053a19.jpg",
+    "short_description": "Wedding Makeup: Enhancing Your Natural Beauty for the Big Day Expert Tips, Trends, and Dos and Don'ts. Discover",
+    "board_description": "Elevate Your Bridal Look: The Art of Wedding MakeupDelve into the world of bridal beauty, from flawless skin to captivating eyes. This article offers expert guidance on achieving the perfect wedding makeup, accentuating your features, and ensuring a stunning, long-lasting look for your special day.",
+    "price": 9392
+  },
+  {
+    "id": 3,
+    "title": "Wedding Presentation",
+    "image": "https://i.ibb.co/y4vgX78/61756a96cab9a5ca21af84ff-Pink-and-White-Wedding-Photography-Gift-Certificate.jpg",
+    "short_description": "Mastering Wedding Presentations Tips, Ideas, and Dos & Don'ts  Elevate Your Speech to Create Lasting Memories. Unlock the secrets now.",
+    "board_description": "Crafting Memorable Wedding Presentations: Tips, Ideas, and Etiquette Explore the art of delivering heartfelt speeches and toasts at weddings. This article provides valuable insights, from structuring your presentation to adding personal touches, ensuring your words become a cherished part of the couple's big day. Make your speech unforgettable!",
+    "price": 3432
+  },
+  {
+    "id": 4,
+    "title": "Wedding Guest Meet",
+    "image": "https://i.ibb.co/gtZsFJM/images-2.jpg",
+    "short_description": "Meeting Wedding Guests: Navigating Introductions and Conversations Make a Positive Impression and Enjoy Memorable Interactions on the Big Day.",
+    "board_description": "Connecting with Wedding Guests: A Guide to Warm Introductions and Engaging Conversations This article offers practical advice for mingling with fellow guests. Learn how to make a positive first impression, start conversations, and ensure you create memorable interactions that enhance the joy of the wedding celebration for everyone involved.",
+    "price": 1002
+  },
+  {
+    "id": 5,
+    "title": "Food & Photos",
+    "image": "https://i.ibb.co/0nZHwbc/istockphoto-1191080960-612x612.jpg",
+    "short_description": "Food & Photos: Capturing Culinary Delights  Tips for Taking Appetizing Pictures of Your Meals to Savor Memories",
+    "board_description": "Food & Photos: A Guide to Mouthwatering Food Photography Discover the secrets of capturing delectable dishes. This article shares expert tips on lighting, composition, and styling to make your food photos as appetizing as they are beautiful. Elevate your culinary photography skills and create irresistible images that tell a story through food.",
+    "price": 1560
+  },
+  {
+    "id": 6,
+    "title": "Photoshoots",
+    "image": "https://i.ibb.co/fdm3mNs/images-3.jpg",
+    "short_description": "Mastering Photoshoots: Tips, Styles, and Locations - Elevate Your Photography Skills and Create Stunning Visual Stories. Explore the art today!",
+    "board_description": "Photoshoots Unveiled: A Comprehensive Guide to Successful Photography Sessions Dive into the world of photoshoots with this article. Learn about various styles, from portrait to fashion to nature, and discover tips on location scouting, lighting, and posing. Enhance your photography skills and create stunning visual narratives that leave a lasting impact.",
+    "price": 18203
+  },
+  {
+    "id": 7,
+    "title": "Outfit",
+    "image": "https://i.ibb.co/YXf5hZZ/images-4.jpg",
+    "short_description": "Elevate Your Style: A Guide to Crafting the Perfect Outfit - Tips, Trends, and Wardrobe Essentials for Every Occasion",
+    "board_description": "Dressing for Success: A Comprehensive Guide to Crafting the Perfect Outfit This article delves into the art of creating stylish ensembles for various occasions. From formal events to casual outings, explore fashion tips, wardrobe essentials, and trend insights to elevate your style game and leave a lasting impression wherever you go",
+    "price": 9230
+  },
+  {
+    "id": 8,
+    "title": "Cinematography Styles",
+    "image": "https://i.ibb.co/jhDsFPZ/images-5.jpg",
+    "short_description": "Cinematography Styles: Exploring Visual Storytelling - A Brief Overview of Popular Techniques and Creative Approaches in Filmmaking.",
+    "board_description": "Cinematography Styles Decoded: A Deep Dive into Visual Storytelling This article explores the diverse world of cinematography, from classic techniques to avant-garde approaches. Discover how cinematographers use framing, lighting, and camera movements to evoke emotions, enhance narratives, and create cinematic masterpieces across different genres and eras.",
+    "price": 7322
+  },
+  {
+    "id": 9,
+    "title": "Marriage Proposal Ideas",
+    "image": "https://i.ibb.co/HG6KGTm/76588-marriage-proposal-at-home-alchemediastudios-lead.jpg",
+    "short_description": "Unforgettable Marriage Proposal Ideas: Creative and Romantic Ways to Pop the Question and Begin Your Journey of Love",
+    "board_description": "Creating the Perfect Moment: Unique Marriage Proposal Ideas This article is a treasure trove of creative and heartfelt proposal concepts. From scenic outdoor settings to intimate at-home surprises, find inspiration to craft a memorable proposal that reflects your love story and makes a profound statement of commitment",
+    "price": 9000
+  }
+]

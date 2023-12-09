@@ -3,10 +3,17 @@
 <a href="https://65240ef76229e700ad8c496b--symphonious-bunny-55ba74.netlify.app">Live Link</a>
 
 <h1>Technology Used:</h1>
-Rect.js, Node.js, Express.js, Mongodb, Tailwind Css, Firebase
+<p>Html</p>
+<p>Css</p>
+<p>Rect.js</p>
+<p>Node.js</p>
+<p>JavaScript</p>
+<p>MongoDB</p>
+<p>Tailwind CSS</p>
+<p>Tailwind CSS</p>
 
 <h1>Description:</h1>
-Certainly! Here's a description for an event management and wedding shop
+Certainly! Here's a description of an event management and wedding shop
 
 <h1>Features:</h1>
 1. Event Planning Expertise: Our seasoned team of event planners is dedicated to turning your dreams into reality. From the initial concept to the final execution, we meticulously plan every detail to ensure your wedding day is flawless.
